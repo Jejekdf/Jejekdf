@@ -20,48 +20,20 @@
 
 ### Overview
 
-- **Role** — Fullstack Developer & IoT Systems Builder.
-- **Current Focus** — [Courtgrid](https://github.com/Jejekdf/Courtgrid), multi-tenant sport center reservation and operations platform.
-- **Core Expertise** — Modern web application architecture (Next.js, TypeScript, PostgreSQL) and embedded firmware (ESP32, C++).
-- **Interests** — Distributed systems, real-time telemetry, and LLM integrations.
+- **Role** — Fullstack Software Engineer & IoT Builder.
+- **Current Project** — [Courtgrid](https://github.com/Jejekdf/Courtgrid), multi-tenant sport center booking and management platform.
+- **Core Stack** — Next.js 16, TypeScript, PostgreSQL, Prisma, Supabase, ESP32 / C++.
+- **Focus Areas** — High-performance web architecture, real-time telemetry, and LLM-assisted workflows.
 
 ---
 
-### Tech Stack
+### Technologies & Tools
 
-#### Frontend & Interface
-<p>
-  <img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
-</p>
-
-#### Backend & Data
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-</p>
-
-#### Hardware & Firmware
-<p>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/PlatformIO-FF8700?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-</p>
-
-#### Infrastructure & Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,prisma,supabase,postgres,redis,cpp,arduino,docker,linux,vercel,git&perline=8&theme=dark" alt="Skills Grid" />
+  </a>
+</div>
 
 ---
 
@@ -69,10 +41,10 @@
 
 | Project | Category | Stack | Description |
 | :--- | :---: | :--- | :--- |
-| **[Courtgrid](https://github.com/Jejekdf/Courtgrid)** | `Active` | Next.js 16, TypeScript, Prisma, Supabase, Redis | Multi-tenant sport center booking platform with rate limiting and internationalization. |
-| **[r-sec-smart-alarm](https://github.com/Jejekdf/r-sec-smart-alarm)** | `Hardware / IoT` | C++, ESP32, PlatformIO, Blynk | IoT smart security alarm hardware unit with real-time alerting and telemetry. |
-| **[Gemini_Flash_API](https://github.com/Jejekdf/Gemini_Flash_API)** | `AI Prototype` | Google Gemini API, REST, Python/JS | GenAI integration experimenting with fast contextual generation workflows. |
-| **[employee-management-system](https://github.com/Jejekdf/employee-management-system)** | `Web App` | JavaScript, Fullstack, Database | Fullstack employee and administrative operations management system. |
+| **[Courtgrid](https://github.com/Jejekdf/Courtgrid)** | `Active SaaS` | Next.js 16, TypeScript, Prisma, Supabase, Redis | Multi-tenant sport center booking platform with rate limiting and internationalization. |
+| **[r-sec-smart-alarm](https://github.com/Jejekdf/r-sec-smart-alarm)** | `Hardware / IoT` | C++, ESP32, PlatformIO, Blynk | IoT smart security alarm hardware unit with real-time alerting and mobile telemetry. |
+| **[Gemini_Flash_API](https://github.com/Jejekdf/Gemini_Flash_API)** | `AI Integration` | Google Gemini API, REST, Python/JS | GenAI integration experimenting with fast contextual generation workflows. |
+| **[employee-management-system](https://github.com/Jejekdf/employee-management-system)** | `Web Application` | JavaScript, Fullstack, Database | Fullstack employee and administrative operations management system. |
 
 ---
 
