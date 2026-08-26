@@ -77,23 +77,15 @@
 
 ---
 
-### 🐍 Contribution Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Jejekdf/Jejekdf/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
-</div>
-
----
-
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jejekdf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jejekdf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jejekdf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="155" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jejekdf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="155" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jejekdf&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Jejekdf&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---
