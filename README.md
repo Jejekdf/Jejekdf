@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:10b981,50:06b6d4,100:3b82f6&height=180&section=header&text=Hi%20there,%20I'm%20Randi%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:10b981,50:06b6d4,100:3b82f6&height=180&section=header&text=Hi%20there,%20I'm%20Randi%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header" />
 
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/Jejekdf">
@@ -21,7 +21,7 @@
 ### 🚀 About Me
 
 - 📍 Based in **Indonesia**
-- 🔭 **Currently building:** [Courtgrid](https://github.com/Jejekdf/Courtgrid) — Modern sport center reservation & management system.
+- 🔭 **Currently building:** [Courtgrid](https://github.com/Jejekdf/Courtgrid) — Modern sport center reservation & management platform.
 - ⚡ **Focus Areas:** Fullstack Web Engineering (Next.js, TypeScript, PostgreSQL) & IoT Systems (ESP32, C++).
 - 🧠 **Experimenting with:** GenAI workflows & Google Gemini API integrations.
 - 💼 Open to freelance projects, collaborations, and engineering roles.
